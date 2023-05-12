@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set up OpenAI API credentials
-openai.api_key = os.environ["OPENAI_API_KEY"]
+openai.api_key = os.environ["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"]
 
 # Define the prompt
 prompt = "The quick brown fox"
